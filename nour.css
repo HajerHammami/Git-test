@@ -1,0 +1,112 @@
+*
+
+.losange 
+{
+    position: absolute;
+    top: 10%;/* Décale vers le bas */
+    left: 50%; /* Décale vers la droite */
+    transform: translate(-50%, -50%) rotate(45deg);
+    box-sizing: border-box;
+    box-shadow: 10px 10px 20px black;}
+
+.losange11 {
+    width: 50px;
+    height: 50px;
+    box-sizing: border-box;
+    background-color: rgb(210, 210, 210);
+    z-index: 1; /* Place ce losange en-dessous */
+    top: 7%
+    /* border: 10px solid green; */
+    /* shadow: 5px green; */
+}
+
+.losange12 {
+    width: 70px;
+    height: 70px;
+    background-color: rgb(160, 160, 160);
+    z-index: 0; /* Place ce losange en-dessous */
+}
+
+.losange21 {
+    width: 50px;
+    height: 50px;
+    box-sizing: border-box;
+    background-color: rgb(210, 210, 210);
+    z-index: 1; /* Place ce losange en-dessous */
+    /* border: 10px solid green; */
+    /* shadow: 5px green; */
+    top: 37%;
+    left: 50%;
+}
+
+.losange22 {
+    width: 70px;
+    height: 70px;
+    background-color: rgb(160, 160, 160);
+    z-index: 0; /* Place ce losange en-dessous */
+    top: 40%;
+    left: 50%;
+}
+
+.losange31 {
+    width: 50px;
+    height: 50px;
+    box-sizing: border-box;
+    background-color: rgb(210, 210, 210);
+    z-index: 1; /* Place ce losange en-dessous */
+    /* border: 10px solid green; */
+    /* shadow: 5px green; */
+    top: 67%;
+    left: 50%;
+}
+
+.losange32 {
+    width: 70px;
+    height: 70px;
+    background-color: rgb(160, 160, 160);
+    z-index: 0; /* Place ce losange en-dessous */
+    top: 70%;
+    left: 50%;
+}
+
+.losange41 {
+    width: 50px;
+    height: 50px;
+    box-sizing: border-box;
+    background-color: rgb(210, 210, 210);
+    z-index: 1; /* Place ce losange en-dessous */
+    /* border: 10px solid green; */
+    /* shadow: 5px green; */
+    top: 24%;
+    left: 30%;
+}
+
+.losange42 {
+    width: 70px;
+    height: 70px;
+    background-color: rgb(160, 160, 160);
+    z-index: 0; /* Place ce losange en-dessous */
+    top: 27%;
+    left: 30%;
+}
+
+.losange51 {
+    width: 50px;
+    height: 50px;
+    box-sizing: border-box;
+    background-color: rgb(210, 210, 210);
+    z-index: 1; /* Place ce losange en-dessous */
+    /* border: 10px solid green; */
+    /* shadow: 5px green; */
+    top: 87%;
+    left: 30%;
+}
+
+.losange52 {
+    width: 70px;
+    height: 70px;
+    background-color: rgb(160, 160, 160);
+    z-index: 0; /* Place ce losange en-dessous */
+    top: 90%;
+    left: 30%;
+}
